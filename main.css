@@ -1,0 +1,66 @@
+/* 
+declaration block:
+
+selector{
+    property: value;
+    property2: value;
+    property3: value;
+}
+*/
+
+/* Body properties */
+body {
+    background-color: #841010; /* Set a background color */
+    color: #ede6e6; /* Set the text color */
+    visibility: visible; /* Ensure the body is visible */
+  }
+  
+  /* Navigation properties */
+  nav {
+    height: 600px; /* Set height */
+    width: 200px; /* Set width */
+    float: left; /* Set float to left */
+    padding: 5px; /* Set padding */
+    line-height: 30px; /* Set line height */
+    visibility: visible; /* Ensure the nav is visible */
+  }
+  
+  /* Footer properties */
+  footer {
+    text-align: center; /* Align text to center */
+    margin-right: 200px; /* Set right margin */
+    visibility: visible; /* Ensure the footer is visible */
+  }
+  
+  /* Image properties */
+  #memeImage {
+    width: 600px; /* Set width */
+    height: 500px; /* Set height */
+    margin-right: 200px; /* Set right margin */
+    visibility: visible; /* Ensure the image is visible */
+  
+  }
+  
+  /* Header properties */
+  header {
+    text-align: center; /* Align text to center */
+    visibility: visible; /* Ensure the header is visible */
+  }
+  
+  /* Paragraph properties */
+  p {
+    font-size: 16px; /* Set font size */
+    line-height: 1.5; /* Set line height */
+    color: #faf8f8; /* Set text color */
+    visibility: visible; /* Ensure paragraphs are visible */
+  }
+  
+  /* Heading (h1) properties */
+  h1 {
+    text-align: center; /* Align text to center */
+    font-size: 48px; /* Set font size */
+    font-weight: bold; /* Set font weight */
+    color: #fcfbfb; /* Set text color */
+    visibility: visible; /* Ensure headings are visible */
+  }
+  
