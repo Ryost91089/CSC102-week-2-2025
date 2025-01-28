@@ -26,8 +26,7 @@ function playGame() {
     }
 }
 
-// Attach the playGame function to the play button
-document.getElementById('playButton').addEventListener('click', playGame);
+
 
 
 
